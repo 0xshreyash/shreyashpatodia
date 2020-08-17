@@ -1,4 +1,4 @@
-[![Shreyash's github stats](https://github-readme-stats.vercel.app/api?username=shreyashpatodia&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Shreyash's github stats](https://github-readme-stats.vercel.app/api?username=shreyashpatodia&count_private=true&show_icons=true&theme=dracula&hide=prs,issues)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
